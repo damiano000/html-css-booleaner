@@ -1,0 +1,19 @@
+.logo {
+    width: 150px;
+    height: auto;
+    margin-top: 30px;
+    position: relative;
+  left: 20px;
+  }
+  .header {
+    background-color: #72d7ff;
+  height: 90px;
+  }
+   .spazio{
+    font-size: 12px;
+  margin-bottom: 3px;
+  margin-top: -5px
+}
+.modparola {
+color:#72d7ff
+}
