@@ -1,19 +1,93 @@
-.logo {
-    width: 150px;
-    height: auto;
-    margin-top: 30px;
-    position: relative;
-  left: 20px;
-  }
-  .header {
-    background-color: #72d7ff;
-  height: 90px;
-  }
-   .spazio{
-    font-size: 12px;
-  margin-bottom: 3px;
-  margin-top: -5px
+.div_header {
+  background-image: url("../img/pattern.png");
+  background-size: 150px;
+  background-color: rgba(127, 211, 241, 0.828);
+  width: 100%;
+  height: 100px;
+  padding-top: 50px;
+
 }
-.modparola {
-color:#72d7ff
+
+
+.div_main {
+  margin: auto;
+  width: 80%;
+}
+
+.div_header img {
+
+  width: 20%;
+  height: 45px;
+  margin-left: 5px;
+
+}
+
+#author {
+
+  color: rgba(42, 109, 225, 0.671);
+
+
+}
+
+main {
+
+  color: grey;
+  font-size: 10px;
+
+}
+
+main h2 {
+  color: black;
+  font-size: 20px;
+
+}
+
+.foto_TimLee {
+
+  width: 30%;
+  height: 280px;
+
+
+}
+
+.colormark {
+  background-color: yellow;
+
+}
+
+thead {
+  background-color: rgba(9, 123, 189, 0.973);
+  color: white;
+
+}
+
+table {
+  width: 100%;
+  height: auto;
+  font-size: 10px;
+}
+
+tbody tr:nth-child(odd) {
+  background-color: rgba(177, 175, 175, 0.616);
+}
+
+tbody tr:nth-child(even) {
+  background-color: white;
+}
+
+.div_footer {
+
+  background-color: rgb(3, 3, 26);
+  width: 100%;
+  height: 25px;
+
+
+}
+
+.div_footer p {
+
+  color: white;
+  font-size: 10px;
+  text-align: center;
+
 }
